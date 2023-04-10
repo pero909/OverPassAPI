@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OverPassApi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Overpass-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/OverPassApi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/Overpass-API" vcs="Git" />
+  </component>
+</project>
