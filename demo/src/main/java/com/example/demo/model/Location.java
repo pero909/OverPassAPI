@@ -6,6 +6,7 @@ import jakarta.persistence.OneToMany;
 import lombok.*;
 
 import java.util.List;
+import java.util.Set;
 
 @Entity
 @AllArgsConstructor
@@ -16,6 +17,6 @@ import java.util.List;
 public class Location {
     @Id
     long id;
-    @OneToMany
-    List<Node> nodes;
+    @OneToMany(mappedBy = "location")
+    Set<Node> nodes;
 }
