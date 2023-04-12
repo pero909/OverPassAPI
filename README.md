@@ -22,9 +22,9 @@ you need exactly java 19 jdk in order to run it properly
 2. Set the JAVA_HOME environment variable:
 After installing JDK, you need to set the JAVA_HOME environment variable. This variable points to the directory where JDK is installed. The exact process of setting this variable depends on the operating system you are using. After installation, set up the environment variables for Java. On Windows, this can be done by going to Control Panel > System > Advanced system settings > Environment Variables, and then adding the path to the Java installation directory to the "Path" variable.
 
-![thirdImage](https://user-images.githubusercontent.com/35383291/231607001-eaa32277-7ca4-4c6f-9437-ba0432bf3b34.png)
-![FourthImage](https://user-images.githubusercontent.com/35383291/231607022-f9a982bc-a3fc-421a-acf2-11a5d8e4cda4.png)
-![5Image](https://user-images.githubusercontent.com/35383291/231607029-1360135e-ed51-4138-827b-9c209e9916e3.png)
+![thirdImage](https://user-images.githubusercontent.com/35383291/231607001-eaa32277-7ca4-4c6f-9437-ba0432bf3b34.png)<br>
+![FourthImage](https://user-images.githubusercontent.com/35383291/231607022-f9a982bc-a3fc-421a-acf2-11a5d8e4cda4.png)<br>
+![5Image](https://user-images.githubusercontent.com/35383291/231607029-1360135e-ed51-4138-827b-9c209e9916e3.png)<br>
 
 Add here the path to you JDK installation, it usually C:\Program Files\Java\jdk-19
 ![Image6](https://user-images.githubusercontent.com/35383291/231607034-2ea287c1-d4ba-447c-9836-217eb3401d08.png)
@@ -40,6 +40,6 @@ here add where u saved the jdk file isually its C:\Program Files\Java\jdk-19
 
 
 3. Download and extract the Java Spring application:
-Re-Clone the project i added a new dependecny so you dont have to install additional packages
+<br>Re-Clone the project i added a new dependecny so you dont have to install additional packages
 
 
