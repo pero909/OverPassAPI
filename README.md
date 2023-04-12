@@ -1,5 +1,3 @@
-# OverPassApi
-
 # OverPassAPI
 Go to Demo-> src -> main -> resources -> application.properties
 
