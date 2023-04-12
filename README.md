@@ -36,8 +36,7 @@ here add where u saved the jdk file isually its C:\Program Files\Java\jdk-19
 
 
 
-3. Download and extract the Java Spring application:
-<br>Re-Clone the project i added a new dependecny so you dont have to install additional packages
+3.Re-Clone the project i added a new dependecny so you dont have to install additional packages
 After you clone it again , start the application and then run ->   http://localhost:8080/api/test in your browser<br>
 That should populate your database
 
