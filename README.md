@@ -9,9 +9,6 @@ Go to Demo-> src -> main -> resources -> application.properties
 ![SecondImage](https://user-images.githubusercontent.com/35383291/231598864-bb3219bb-1dfe-43a5-a5e5-cd8d3c44f92b.png)
 
 
-that should connect the api to your database after that  run ->   http://localhost:8080/api/test   in your browser , that
-
-should populate the database
 
 If you havent used java at all follow these steps<br>
 
@@ -41,5 +38,7 @@ here add where u saved the jdk file isually its C:\Program Files\Java\jdk-19
 
 3. Download and extract the Java Spring application:
 <br>Re-Clone the project i added a new dependecny so you dont have to install additional packages
+After you clone it again , start the application and then run ->   http://localhost:8080/api/test in your browser<br>
+That should populate your database
 
 
