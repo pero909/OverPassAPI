@@ -5,7 +5,7 @@ Go to Demo-> src -> main -> resources -> application.properties
 
 1 - put the name of your database there  <br>
 2 - put the username that you use (default username in postgres is "postgres")  <br>
-3 - put password to database  (default is no password)
+3 - put password to database  (default is empty, leave it blank)
 ![SecondImage](https://user-images.githubusercontent.com/35383291/231598864-bb3219bb-1dfe-43a5-a5e5-cd8d3c44f92b.png)
 
 
