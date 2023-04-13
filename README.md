@@ -1,13 +1,3 @@
-# OverPassAPI
-Go to Demo-> src -> main -> resources -> application.properties
-
-![FirstImage](https://user-images.githubusercontent.com/35383291/231598443-67989536-934c-4959-9755-6a3e259616aa.png)
-
-1 - put the name of your database there  <br>
-2 - put the username that you use (default username in postgres is "postgres")  <br>
-3 - put password to database  (default is empty, leave it blank)
-![SecondImage](https://user-images.githubusercontent.com/35383291/231598864-bb3219bb-1dfe-43a5-a5e5-cd8d3c44f92b.png)
-
 
 
 If you havent used java at all follow these steps<br>
@@ -37,7 +27,16 @@ here add where u saved the jdk file isually its C:\Program Files\Java\jdk-19
 
 
 3.Re-Clone the project i added a new dependecny so you dont have to install additional packages
-After you clone it again , start the application and then run ->   http://localhost:8080/api/test in your browser<br>
+Inside of the app Go to Demo-> src -> main -> resources -> application.properties
+
+![FirstImage](https://user-images.githubusercontent.com/35383291/231598443-67989536-934c-4959-9755-6a3e259616aa.png)
+
+1 - put the name of your database there  <br>
+2 - put the username that you use (default username in postgres is "postgres")  <br>
+3 - put password to database  (default is empty, leave it blank)
+![SecondImage](https://user-images.githubusercontent.com/35383291/231598864-bb3219bb-1dfe-43a5-a5e5-cd8d3c44f92b.png)
+
+4. Run the application and then run ->   http://localhost:8080/api/test in your browser<br>
 That should populate your database
 
 
