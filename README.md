@@ -26,8 +26,7 @@ here add where u saved the jdk file isually its C:\Program Files\Java\jdk-19
 
 
 
-3.Re-Clone the project i added a new dependecny so you dont have to install additional packages
-Inside of the app Go to Demo-> src -> main -> resources -> application.properties
+3.Inside of the app Go to Demo-> src -> main -> resources -> application.properties
 
 ![FirstImage](https://user-images.githubusercontent.com/35383291/231598443-67989536-934c-4959-9755-6a3e259616aa.png)
 
@@ -36,7 +35,12 @@ Inside of the app Go to Demo-> src -> main -> resources -> application.propertie
 3 - put password to database  (default is empty, leave it blank)
 ![SecondImage](https://user-images.githubusercontent.com/35383291/231598864-bb3219bb-1dfe-43a5-a5e5-cd8d3c44f92b.png)
 
-4. Run the application and then run ->   http://localhost:8080/api/test in your browser<br>
+4. To not reclone the repo you can just add the following dependecny as you see here in the pom.xml file ,<br> the change is outlined on the repo itself
+
+![Untitled](https://user-images.githubusercontent.com/35383291/231731679-732f4822-2b7a-467b-81ae-dcefbc5b4bcf.png)
+
+
+Run the application and then run ->   http://localhost:8080/api/test in your browser<br>
 That should populate your database
 
 
